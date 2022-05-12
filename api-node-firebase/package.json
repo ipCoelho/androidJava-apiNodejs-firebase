@@ -1,0 +1,27 @@
+{
+  "name": "firebase-connection",
+  "version": "1.0.0",
+  "description": "simple rest for sending images from android-java for firebase storage",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "keywords": [
+    "api",
+    "rest",
+    "node",
+    "express",
+    "firebase",
+    "android",
+    "java"
+  ],
+  "author": "Israel P. Coelho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
